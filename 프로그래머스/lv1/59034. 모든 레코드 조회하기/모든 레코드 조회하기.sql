@@ -1,0 +1,2 @@
+-- 주석  SELECT 이해
+SELECT * FROM ANIMAL_INS ;
